@@ -90,58 +90,9 @@
     height: 50px;
     filter: invert();
     display: flex;
-    transform: translate(30% , 40%);
+    transform: translate(38% , 38%);
     
 }
-/* .cir4 img{
-    height: 50px;
-    filter: invert();
-    display: flex;
-    transform: translate(30% , 40%);
-
-}
-.cir1 img{
-    height: 55px;
-    margin-top: 18px;
-    margin-left: 16px;
-    filter: invert();
-}
-.cir5 img{
-    height: 55px;
-    margin-top: 18px;
-    margin-left: 16px;
-    filter: invert();
-}
-.cir6 img{
-    height: 55px;
-    margin-top: 18px;
-    margin-left: 16px;
-    filter: invert();
-}
-.cir3 img{
-    height: 55px;
-    margin-top: 18px;
-    margin-left: 16px;
-    filter: invert();
-}
-.cir7 img{
-    height: 55px;
-    margin-top: 18px;
-    margin-left: 16px;
-    filter: invert();
-}
-.cir2 img{
-    height: 55px;
-    margin-top: 18px;
-    margin-left: 16px;
-    filter: invert();
-}
-.cir8 img{
-    height: 55px;
-    margin-top: 18px;
-    margin-left: 16px;
-    filter: invert();
-} */
 .lab1,.lab2,.lab3,.lab4,.lab5,.lab6,.lab7,.lab8{
     position: absolute;
     font-weight: bold; 
