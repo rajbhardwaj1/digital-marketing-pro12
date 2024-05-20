@@ -1,0 +1,180 @@
+*{
+    padding: 0;
+    margin: 0;
+    font-family: Arial, Helvetica, sans-serif;
+}
+.cir0{
+    height: 300px;
+    width: 300px;
+    border-radius: 50%;
+    margin: 170px auto;
+}
+.cir1,.cir2,.cir3,.cir4,.cir5,.cir6,.cir7,.cir8{
+    position: absolute;
+    height: 90px;
+    width: 90px;
+    border-radius: 50%;
+    border: 6px solid white;
+}
+.cir1{
+    outline: 2px solid rgb(226, 153, 124);
+    background-color: rgb(226, 153, 124);
+    top: 12%;
+    left: 46%;
+}
+.cir2{
+    outline: 2px solid rgb(139, 197, 224);
+    background-color: rgb(139, 197, 224);
+    bottom: 12.2%;
+    left: 46%;
+}
+.cir3{
+    outline: 2px solid rgb(245, 188, 223);
+    background-color: rgb(245, 188, 223);
+    top: 40%;
+    left: 32%;
+}
+.cir4{
+    outline: 2px solid rgb(165, 245, 165);
+    background-color: rgb(165, 245, 165);
+    top: 40%;
+    right: 31.9%;
+}
+.cir5{
+    outline: 2px solid rgb(211, 105, 111);
+    background-color: rgb(211, 105, 111);
+    top: 19.7%;
+    left: 35.7%;
+}
+.cir6{
+    outline: 2px solid rgba(236, 203, 56, 0.87);
+    background-color: rgba(236, 203, 56, 0.87);
+    top: 19.7%;
+    right: 35.6%;
+}
+.cir7{
+    outline: 2px solid rgb(189, 151, 201);
+    background-color: rgb(189, 151, 201);
+    bottom: 21%;
+    left: 35.2%;
+}
+.cir8{
+    outline: 2px solid rgb(122, 209, 190);
+    background-color: rgb(122, 209, 190);
+    bottom: 21%;
+    right: 35.2%;
+}
+.cir0 img{
+    height: 100px;
+    position: absolute;
+    top: 33%;
+    left: 44.4%;
+}
+.dig{
+    position: absolute;
+    font-size: 30px;
+    font-weight: bold;
+    top: 48%;
+    font-family:Verdana, Geneva, Tahoma, sans-serif;
+    left: 44.7%;
+    color: rgb(49, 65, 134);
+}
+.mar{
+    position: absolute;
+    font-size: 22px;
+    top: 55%;
+    left: 45.2%;
+    color: rgb(49, 65, 134);
+}
+.cir img{
+    height: 50px;
+    filter: invert();
+    display: flex;
+    transform: translate(30% , 40%);
+    
+}
+/* .cir4 img{
+    height: 50px;
+    filter: invert();
+    display: flex;
+    transform: translate(30% , 40%);
+
+}
+.cir1 img{
+    height: 55px;
+    margin-top: 18px;
+    margin-left: 16px;
+    filter: invert();
+}
+.cir5 img{
+    height: 55px;
+    margin-top: 18px;
+    margin-left: 16px;
+    filter: invert();
+}
+.cir6 img{
+    height: 55px;
+    margin-top: 18px;
+    margin-left: 16px;
+    filter: invert();
+}
+.cir3 img{
+    height: 55px;
+    margin-top: 18px;
+    margin-left: 16px;
+    filter: invert();
+}
+.cir7 img{
+    height: 55px;
+    margin-top: 18px;
+    margin-left: 16px;
+    filter: invert();
+}
+.cir2 img{
+    height: 55px;
+    margin-top: 18px;
+    margin-left: 16px;
+    filter: invert();
+}
+.cir8 img{
+    height: 55px;
+    margin-top: 18px;
+    margin-left: 16px;
+    filter: invert();
+} */
+.lab1,.lab2,.lab3,.lab4,.lab5,.lab6,.lab7,.lab8{
+    position: absolute;
+    font-weight: bold; 
+}
+.lab1{
+    top: 7%;
+    left: 48.2%;
+}
+.lab2{
+    bottom: 7%;
+    left: 46.2%;
+}
+.lab3{
+    top: 46%;
+    left: 26.5%;
+}
+.lab4{
+    top: 46%;
+    right: 24.5%;
+}
+.lab5{
+    top: 18%;
+    left: 29.5%;
+}
+.lab6{
+    top: 18%;
+    right: 32%;
+}
+.lab7{
+    bottom: 20%;
+    left: 30%;
+}
+.lab8{
+    bottom: 20%;
+    right: 30.4%;
+}
